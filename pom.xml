@@ -11,7 +11,7 @@
     <artifactId>oauth-authorization-server-legacy</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>oauth-authorization-server-legacy</name>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <dependencies>
 
         <dependency>
